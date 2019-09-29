@@ -1,5 +1,8 @@
 version: 0.2
 phases:
+  install:
+    runtime-versions:
+      java: java-1.8.0-openjdk
   pre_build:
     commands:
       - echo Nothing to do in the pre_build phase...
