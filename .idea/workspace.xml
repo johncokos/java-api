@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f597cc0-1825-4505-9f38-8ddabfbbac77" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../class-03/demo/react-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../class-03/demo/react-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../class-03/demo/react-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../class-03/demo/react-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../class-03/demo/react-app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../class-03/demo/react-app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../class-03/demo/react-app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../class-03/demo/react-app/src/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../class-03/demo/react-app/src/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../class-03/demo/react-app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../class-03/demo/react-app/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../class-03/demo/react-app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../class-03/demo/react-app/src/mock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../class-03/demo/react-app/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../facilitator/block-4.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../facilitator/block-4.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cokos</find>
+      <find>client</find>
+      <find>AmazonDynamoDB</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>codefellows</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectId" id="1Qz5rtS1vEvqB6Usv6y4XZsHoDP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="PeopleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="People.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codefellows.People.PeopleApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="GEESES" />
+          <option name="value" value="jfldsfjfsdljdfs" />
+        </param>
+      </additionalParameters>
+      <envs>
+        <env name="AWS_ACCESS_KEY" value="AKIAIV35HHASRKAUO7AA" />
+        <env name="AWS_SECRET_KEY" value="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" />
+        <env name="AWS_S3_BUCKET" value="cokos-people" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f597cc0-1825-4505-9f38-8ddabfbbac77" name="Default Changelist" comment="" />
+      <created>1568009400530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568009400530</updated>
+      <workItem from="1568009405425" duration="2772000" />
+      <workItem from="1568051096583" duration="144000" />
+      <workItem from="1568051722199" duration="1119000" />
+      <workItem from="1568053156971" duration="2633000" />
+      <workItem from="1568057858281" duration="185000" />
+      <workItem from="1568146927175" duration="5249000" />
+      <workItem from="1568224056238" duration="9022000" />
+      <workItem from="1568260009816" duration="2266000" />
+      <workItem from="1568308581159" duration="363000" />
+      <workItem from="1568328760156" duration="1294000" />
+      <workItem from="1568351070373" duration="13000" />
+      <workItem from="1568391408473" duration="659000" />
+      <workItem from="1568760787300" duration="1103000" />
+      <workItem from="1568840876473" duration="931000" />
+      <workItem from="1568912812456" duration="1913000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
